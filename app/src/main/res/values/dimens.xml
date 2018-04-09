@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="keylines">16dp</dimen>
+    <dimen name="button_dimension">48dp</dimen>
+    <dimen name="quantity_padding">8dp</dimen>
+    <dimen name="checkbox_spacing">24dp</dimen>
+    <dimen name="text_size_check_box">16sp</dimen>
+</resources>

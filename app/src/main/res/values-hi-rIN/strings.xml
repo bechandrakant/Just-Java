@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">बस जावा</string>
+    <string name="name_hint">नाम</string>
+    <string name="toppings">टॉपिंग</string>
+    <string name="whipped_cream">फेटी हुई मलाई</string>
+    <string name="add_whipped_cream">जोड़ें फेटी हुई मलाई?</string>
+    <string name="chocolate">चॉकलेट</string>
+    <string name="add_chocolate">चॉकलेट जोड़ें?</string>
+    <string name="quantity">मात्रा</string>
+    <string name="total_price">कुल कीमत</string>
+    <string name="thank_you">धन्यवाद!</string>
+    <string name="order">कृपया आदेश कीजिए |</string>
+    <string name="true_text">हाँ</string>
+    <string name="false_text">नहीं</string>
+    <string name="order_summary">"ऑर्डर का विवरण "</string>
+</resources>
